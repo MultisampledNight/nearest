@@ -1,5 +1,5 @@
 # nearest
-Finds the nearest color in the colortable at https://github.com/meodai/color-names and returns it ina a pretty format, along with name and distance.
+Finds the nearest color in the colortable at https://github.com/meodai/color-names and returns it in a pretty format, along with name and distance.
 
 ## Images
 ![A picture of nearest how it outputs the found colors](https://user-images.githubusercontent.com/80128916/117614699-fb8d7900-b168-11eb-8f22-5945f3b60c3c.png)
